@@ -107,6 +107,7 @@ org.wildfly.swarm.mail
 org.wildfly.swarm.management
 org.wildfly.swarm.management.console
 org.wildfly.swarm.messaging
+org.wildfly.swarm.mod_cluster
 org.wildfly.swarm.monitor
 org.wildfly.swarm.msc
 org.wildfly.swarm.naming
