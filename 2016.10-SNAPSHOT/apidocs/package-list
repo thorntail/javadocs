@@ -96,6 +96,7 @@ org.wildfly.swarm.jdr
 org.wildfly.swarm.jgroups
 org.wildfly.swarm.jmx
 org.wildfly.swarm.jolokia
+org.wildfly.swarm.jolokia.access
 org.wildfly.swarm.jpa
 org.wildfly.swarm.jsf
 org.wildfly.swarm.keycloak
