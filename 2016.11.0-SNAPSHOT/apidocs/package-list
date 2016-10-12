@@ -3,8 +3,8 @@ org.wildfly.swarm.batch.jberet
 org.wildfly.swarm.bean.validation
 org.wildfly.swarm.camel.core
 org.wildfly.swarm.cdi
-org.wildfly.swarm.cdi.ext
-org.wildfly.swarm.cdi.ext.deployment
+org.wildfly.swarm.cdi.config
+org.wildfly.swarm.cdi.config.deployment
 org.wildfly.swarm.cli
 org.wildfly.swarm.config
 org.wildfly.swarm.config.batch.jberet
