@@ -93,6 +93,8 @@ org.wildfly.swarm.infinispan
 org.wildfly.swarm.io
 org.wildfly.swarm.javafx
 org.wildfly.swarm.jaxrs
+org.wildfly.swarm.jaxrs.btm
+org.wildfly.swarm.jaxrs.btm.zipkin
 org.wildfly.swarm.jca
 org.wildfly.swarm.jdr
 org.wildfly.swarm.jgroups
