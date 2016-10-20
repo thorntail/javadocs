@@ -1,4 +1,5 @@
 org.wildfly.swarm
+org.wildfly.swarm.arquillian.deployment
 org.wildfly.swarm.batch.jberet
 org.wildfly.swarm.bean.validation
 org.wildfly.swarm.camel.core
