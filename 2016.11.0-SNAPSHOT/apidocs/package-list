@@ -6,6 +6,8 @@ org.wildfly.swarm.camel.core
 org.wildfly.swarm.cdi
 org.wildfly.swarm.cdi.config
 org.wildfly.swarm.cdi.config.deployment
+org.wildfly.swarm.cdi.jaxrsapi
+org.wildfly.swarm.cdi.jaxrsapi.deployment
 org.wildfly.swarm.cli
 org.wildfly.swarm.config
 org.wildfly.swarm.config.batch.jberet
