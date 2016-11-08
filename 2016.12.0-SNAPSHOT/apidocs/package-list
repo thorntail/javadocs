@@ -85,6 +85,7 @@ org.wildfly.swarm.config.undertow.servlet_container
 org.wildfly.swarm.config.webservices
 org.wildfly.swarm.connector
 org.wildfly.swarm.container
+org.wildfly.swarm.container.cdi
 org.wildfly.swarm.container.util
 org.wildfly.swarm.database.h2
 org.wildfly.swarm.database.mysql
