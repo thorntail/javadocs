@@ -122,6 +122,7 @@ org.wildfly.swarm.jpa.persistence
 org.wildfly.swarm.jpa.spatial
 org.wildfly.swarm.jsf
 org.wildfly.swarm.jsf.detect
+org.wildfly.swarm.jsonp.detect
 org.wildfly.swarm.keycloak
 org.wildfly.swarm.keycloak.deployment
 org.wildfly.swarm.keycloak.server
