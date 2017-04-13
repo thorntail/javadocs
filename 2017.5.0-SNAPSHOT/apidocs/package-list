@@ -147,6 +147,7 @@ org.wildfly.swarm.remoting
 org.wildfly.swarm.request.controller
 org.wildfly.swarm.resource.adapters
 org.wildfly.swarm.security
+org.wildfly.swarm.security.detect
 org.wildfly.swarm.spi.api
 org.wildfly.swarm.spi.api.annotations
 org.wildfly.swarm.spi.api.cdi
