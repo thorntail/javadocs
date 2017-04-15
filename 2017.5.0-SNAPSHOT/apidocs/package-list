@@ -109,6 +109,7 @@ org.wildfly.swarm.jaxrs.btm.zipkin
 org.wildfly.swarm.jaxrs.detect
 org.wildfly.swarm.jaxrs.jaxb.detect
 org.wildfly.swarm.jaxrs.jsonp.detect
+org.wildfly.swarm.jaxrs.multipart.detect
 org.wildfly.swarm.jaxrs.validator.detect
 org.wildfly.swarm.jca
 org.wildfly.swarm.jdr
