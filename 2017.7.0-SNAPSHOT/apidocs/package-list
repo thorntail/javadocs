@@ -142,6 +142,8 @@ org.wildfly.swarm.naming
 org.wildfly.swarm.netflix.hystrix
 org.wildfly.swarm.netflix.ribbon
 org.wildfly.swarm.netflix.ribbon.secured
+org.wildfly.swarm.opentracing
+org.wildfly.swarm.opentracing.deployment
 org.wildfly.swarm.remoting
 org.wildfly.swarm.request.controller
 org.wildfly.swarm.resource.adapters
