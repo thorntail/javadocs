@@ -101,6 +101,8 @@ org.wildfly.swarm.flyway.deployment
 org.wildfly.swarm.infinispan
 org.wildfly.swarm.infinispan.detect
 org.wildfly.swarm.io
+org.wildfly.swarm.jaeger
+org.wildfly.swarm.jaeger.deployment
 org.wildfly.swarm.javafx
 org.wildfly.swarm.javafx.detect
 org.wildfly.swarm.jaxrs
