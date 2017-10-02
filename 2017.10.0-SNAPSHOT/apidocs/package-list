@@ -1,6 +1,7 @@
 org.wildfly.swarm
 org.wildfly.swarm.bean.validation
 org.wildfly.swarm.bean.validation.detect
+org.wildfly.swarm.camel.core
 org.wildfly.swarm.cdi
 org.wildfly.swarm.cdi.config
 org.wildfly.swarm.cdi.config.deployment
@@ -89,6 +90,8 @@ org.wildfly.swarm.datasources.detect
 org.wildfly.swarm.ee
 org.wildfly.swarm.ejb
 org.wildfly.swarm.ejb.detect
+org.wildfly.swarm.infinispan
+org.wildfly.swarm.infinispan.detect
 org.wildfly.swarm.io
 org.wildfly.swarm.jaxrs
 org.wildfly.swarm.jaxrs.detect
@@ -97,6 +100,7 @@ org.wildfly.swarm.jaxrs.jsonp.detect
 org.wildfly.swarm.jaxrs.multipart.detect
 org.wildfly.swarm.jaxrs.validator.detect
 org.wildfly.swarm.jca
+org.wildfly.swarm.jgroups
 org.wildfly.swarm.jmx
 org.wildfly.swarm.jpa
 org.wildfly.swarm.jpa.detect
@@ -106,12 +110,21 @@ org.wildfly.swarm.jsonp.detect
 org.wildfly.swarm.keycloak
 org.wildfly.swarm.keycloak.deployment
 org.wildfly.swarm.logging
+org.wildfly.swarm.mail
+org.wildfly.swarm.mail.detect
 org.wildfly.swarm.management
+org.wildfly.swarm.messaging
+org.wildfly.swarm.messaging.detect
 org.wildfly.swarm.monitor
 org.wildfly.swarm.msc
 org.wildfly.swarm.naming
+org.wildfly.swarm.netflix.hystrix
+org.wildfly.swarm.netflix.ribbon
+org.wildfly.swarm.opentracing
+org.wildfly.swarm.opentracing.deployment
 org.wildfly.swarm.remoting
 org.wildfly.swarm.request.controller
+org.wildfly.swarm.resource.adapters
 org.wildfly.swarm.security
 org.wildfly.swarm.security.detect
 org.wildfly.swarm.spi.api
@@ -126,3 +139,5 @@ org.wildfly.swarm.transactions.detect
 org.wildfly.swarm.undertow
 org.wildfly.swarm.undertow.descriptors
 org.wildfly.swarm.undertow.detect
+org.wildfly.swarm.webservices
+org.wildfly.swarm.webservices.detect
