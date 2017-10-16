@@ -120,6 +120,7 @@ org.wildfly.swarm.msc
 org.wildfly.swarm.naming
 org.wildfly.swarm.netflix.hystrix
 org.wildfly.swarm.netflix.ribbon
+org.wildfly.swarm.netflix.ribbon.secured.client
 org.wildfly.swarm.opentracing
 org.wildfly.swarm.opentracing.deployment
 org.wildfly.swarm.remoting
