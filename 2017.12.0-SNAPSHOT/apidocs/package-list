@@ -143,6 +143,7 @@ org.wildfly.swarm.spi.api
 org.wildfly.swarm.spi.api.annotations
 org.wildfly.swarm.spi.api.cdi
 org.wildfly.swarm.spi.api.config
+org.wildfly.swarm.teiid
 org.wildfly.swarm.topology
 org.wildfly.swarm.topology.deployment
 org.wildfly.swarm.topology.webapp
