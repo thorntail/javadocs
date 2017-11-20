@@ -90,6 +90,9 @@ org.wildfly.swarm.datasources.detect
 org.wildfly.swarm.ee
 org.wildfly.swarm.ejb
 org.wildfly.swarm.ejb.detect
+org.wildfly.swarm.health
+org.wildfly.swarm.health.api
+org.wildfly.swarm.health.deployment
 org.wildfly.swarm.infinispan
 org.wildfly.swarm.infinispan.detect
 org.wildfly.swarm.io
@@ -118,8 +121,6 @@ org.wildfly.swarm.messaging.detect
 org.wildfly.swarm.microprofile.config.fraction
 org.wildfly.swarm.microprofile_metrics
 org.wildfly.swarm.monitor
-org.wildfly.swarm.monitor.api
-org.wildfly.swarm.monitor.deployment
 org.wildfly.swarm.mpjwtauth
 org.wildfly.swarm.mpjwtauth.deployment.auth
 org.wildfly.swarm.mpjwtauth.deployment.auth.cdi
