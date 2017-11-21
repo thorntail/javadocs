@@ -93,6 +93,7 @@ org.wildfly.swarm.ejb.detect
 org.wildfly.swarm.health
 org.wildfly.swarm.health.api
 org.wildfly.swarm.health.deployment
+org.wildfly.swarm.health.detect
 org.wildfly.swarm.infinispan
 org.wildfly.swarm.infinispan.detect
 org.wildfly.swarm.io
