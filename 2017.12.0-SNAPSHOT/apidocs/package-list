@@ -16,9 +16,11 @@ org.wildfly.swarm.config.ee
 org.wildfly.swarm.config.ejb3
 org.wildfly.swarm.config.ejb3.remoting_profile
 org.wildfly.swarm.config.ejb3.service
+org.wildfly.swarm.config.elytron
 org.wildfly.swarm.config.infinispan
 org.wildfly.swarm.config.infinispan.cache_container
 org.wildfly.swarm.config.io
+org.wildfly.swarm.config.io.worker
 org.wildfly.swarm.config.jca
 org.wildfly.swarm.config.jgroups
 org.wildfly.swarm.config.jgroups.channel
@@ -72,6 +74,7 @@ org.wildfly.swarm.config.transactions
 org.wildfly.swarm.config.transactions.log_store
 org.wildfly.swarm.config.transactions.log_store.transactions
 org.wildfly.swarm.config.undertow
+org.wildfly.swarm.config.undertow.application_security_domain
 org.wildfly.swarm.config.undertow.configuration
 org.wildfly.swarm.config.undertow.configuration.mod_cluster
 org.wildfly.swarm.config.undertow.configuration.mod_cluster.balancer
@@ -90,6 +93,7 @@ org.wildfly.swarm.datasources.detect
 org.wildfly.swarm.ee
 org.wildfly.swarm.ejb
 org.wildfly.swarm.ejb.detect
+org.wildfly.swarm.elytron
 org.wildfly.swarm.infinispan
 org.wildfly.swarm.infinispan.detect
 org.wildfly.swarm.io
@@ -116,6 +120,7 @@ org.wildfly.swarm.management
 org.wildfly.swarm.messaging
 org.wildfly.swarm.messaging.detect
 org.wildfly.swarm.microprofile.config.fraction
+org.wildfly.swarm.microprofile.faulttolerance
 org.wildfly.swarm.microprofile.health
 org.wildfly.swarm.microprofile.health.api
 org.wildfly.swarm.microprofile.health.deployment
@@ -128,6 +133,7 @@ org.wildfly.swarm.microprofile.jwtauth.deployment.auth.jaas
 org.wildfly.swarm.microprofile.jwtauth.deployment.principal
 org.wildfly.swarm.microprofile.jwtauth.detect
 org.wildfly.swarm.microprofile.metrics
+org.wildfly.swarm.microprofile.metrics.api
 org.wildfly.swarm.monitor
 org.wildfly.swarm.msc
 org.wildfly.swarm.naming
