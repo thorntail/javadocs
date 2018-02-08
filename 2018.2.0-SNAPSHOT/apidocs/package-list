@@ -164,6 +164,8 @@ org.wildfly.swarm.microprofile.jwtauth.detect
 org.wildfly.swarm.microprofile.metrics
 org.wildfly.swarm.microprofile.metrics.api
 org.wildfly.swarm.microprofile.metrics.deployment
+org.wildfly.swarm.microprofile.restclient
+org.wildfly.swarm.microprofile.restclient.deployment
 org.wildfly.swarm.mod_cluster
 org.wildfly.swarm.mongodb
 org.wildfly.swarm.monitor
