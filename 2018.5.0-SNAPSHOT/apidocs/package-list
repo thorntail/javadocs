@@ -187,6 +187,7 @@ org.wildfly.swarm.mod_cluster
 org.wildfly.swarm.mongodb
 org.wildfly.swarm.monitor
 org.wildfly.swarm.msc
+org.wildfly.swarm.mvc
 org.wildfly.swarm.mvc.detect
 org.wildfly.swarm.naming
 org.wildfly.swarm.neo4j
