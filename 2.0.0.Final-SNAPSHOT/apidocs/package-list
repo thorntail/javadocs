@@ -112,6 +112,8 @@ org.wildfly.swarm.microprofile.restclient.detect
 org.wildfly.swarm.mod_cluster
 org.wildfly.swarm.mongodb
 org.wildfly.swarm.monitor
+org.wildfly.swarm.mpopentracing
+org.wildfly.swarm.mpopentracing.deployment
 org.wildfly.swarm.msc
 org.wildfly.swarm.mvc
 org.wildfly.swarm.mvc.detect
