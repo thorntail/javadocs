@@ -159,7 +159,6 @@ org.wildfly.swarm.microprofile.jwtauth.deployment.auth
 org.wildfly.swarm.microprofile.jwtauth.deployment.auth.cdi
 org.wildfly.swarm.microprofile.jwtauth.deployment.auth.config
 org.wildfly.swarm.microprofile.jwtauth.deployment.auth.jaas
-org.wildfly.swarm.microprofile.jwtauth.deployment.principal
 org.wildfly.swarm.microprofile.jwtauth.detect
 org.wildfly.swarm.microprofile.metrics
 org.wildfly.swarm.microprofile.metrics.detect
