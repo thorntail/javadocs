@@ -126,6 +126,9 @@ org.wildfly.swarm.jgroups
 org.wildfly.swarm.jmx
 org.wildfly.swarm.jolokia
 org.wildfly.swarm.jolokia.access
+org.wildfly.swarm.jose
+org.wildfly.swarm.jose.deployment
+org.wildfly.swarm.jose.provider
 org.wildfly.swarm.jpa
 org.wildfly.swarm.jpa.detect
 org.wildfly.swarm.jpa.persistence
