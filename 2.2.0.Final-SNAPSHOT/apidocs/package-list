@@ -173,6 +173,7 @@ org.wildfly.swarm.mongodb
 org.wildfly.swarm.monitor
 org.wildfly.swarm.mpopentracing
 org.wildfly.swarm.mpopentracing.deployment
+org.wildfly.swarm.mpopentracing.detect
 org.wildfly.swarm.msc
 org.wildfly.swarm.mvc
 org.wildfly.swarm.mvc.detect
