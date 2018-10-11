@@ -1,4 +1,5 @@
 org.wildfly.swarm
+org.wildfly.swarm.archaius
 org.wildfly.swarm.asciidoctorj
 org.wildfly.swarm.asciidoctorj.detect
 org.wildfly.swarm.batch.jberet
@@ -179,7 +180,6 @@ org.wildfly.swarm.mvc
 org.wildfly.swarm.mvc.detect
 org.wildfly.swarm.naming
 org.wildfly.swarm.neo4j
-org.wildfly.swarm.netflix.archaius.runtime
 org.wildfly.swarm.netflix.hystrix
 org.wildfly.swarm.netflix.ribbon
 org.wildfly.swarm.netflix.ribbon.secured
