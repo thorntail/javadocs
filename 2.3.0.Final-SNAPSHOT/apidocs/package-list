@@ -151,6 +151,7 @@ org.wildfly.swarm.messaging.detect
 org.wildfly.swarm.microprofile.config.fraction
 org.wildfly.swarm.microprofile.config.fraction.detect
 org.wildfly.swarm.microprofile.faulttolerance
+org.wildfly.swarm.microprofile.faulttolerance.deployment
 org.wildfly.swarm.microprofile.faulttolerance.detect
 org.wildfly.swarm.microprofile.health
 org.wildfly.swarm.microprofile.health.api
