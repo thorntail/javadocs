@@ -185,7 +185,6 @@ org.wildfly.swarm.netflix.hystrix
 org.wildfly.swarm.netflix.ribbon
 org.wildfly.swarm.netflix.ribbon.secured
 org.wildfly.swarm.netflix.ribbon.secured.client
-org.wildfly.swarm.odata
 org.wildfly.swarm.opentracing
 org.wildfly.swarm.opentracing.deployment
 org.wildfly.swarm.opentracing.tracer
@@ -207,7 +206,6 @@ org.wildfly.swarm.swagger
 org.wildfly.swarm.swagger.deployment
 org.wildfly.swarm.swagger.detect
 org.wildfly.swarm.swagger.webapp
-org.wildfly.swarm.teiid
 org.wildfly.swarm.topology
 org.wildfly.swarm.topology.consul
 org.wildfly.swarm.topology.deployment
