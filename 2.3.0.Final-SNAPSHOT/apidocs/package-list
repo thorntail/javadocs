@@ -27,6 +27,7 @@ org.wildfly.swarm.config.ejb3.service
 org.wildfly.swarm.config.elytron
 org.wildfly.swarm.config.infinispan
 org.wildfly.swarm.config.infinispan.cache_container
+org.wildfly.swarm.config.infinispan.remote_cache_container
 org.wildfly.swarm.config.io
 org.wildfly.swarm.config.io.worker
 org.wildfly.swarm.config.jca
@@ -61,8 +62,8 @@ org.wildfly.swarm.config.messaging.activemq.server
 org.wildfly.swarm.config.messaging.activemq.server.ha_policy.replication_colocated
 org.wildfly.swarm.config.messaging.activemq.server.ha_policy.shared_store_colocated
 org.wildfly.swarm.config.modcluster
-org.wildfly.swarm.config.modcluster.mod_cluster_config
-org.wildfly.swarm.config.modcluster.mod_cluster_config.dynamic_load_provider
+org.wildfly.swarm.config.modcluster.proxy
+org.wildfly.swarm.config.modcluster.proxy.load_provider
 org.wildfly.swarm.config.naming
 org.wildfly.swarm.config.remoting
 org.wildfly.swarm.config.resource.adapters
@@ -99,6 +100,8 @@ org.wildfly.swarm.container.util
 org.wildfly.swarm.datasources
 org.wildfly.swarm.datasources.detect
 org.wildfly.swarm.ee
+org.wildfly.swarm.ee.security
+org.wildfly.swarm.ee.security.detect
 org.wildfly.swarm.ejb
 org.wildfly.swarm.ejb.detect
 org.wildfly.swarm.ejb.remote.detect
@@ -118,6 +121,7 @@ org.wildfly.swarm.jaxrs.btm
 org.wildfly.swarm.jaxrs.btm.zipkin
 org.wildfly.swarm.jaxrs.detect
 org.wildfly.swarm.jaxrs.jaxb.detect
+org.wildfly.swarm.jaxrs.jsonb.detect
 org.wildfly.swarm.jaxrs.jsonp.detect
 org.wildfly.swarm.jaxrs.multipart.detect
 org.wildfly.swarm.jaxrs.validator.detect
@@ -136,6 +140,7 @@ org.wildfly.swarm.jpa.persistence
 org.wildfly.swarm.jpa.spatial
 org.wildfly.swarm.jsf
 org.wildfly.swarm.jsf.detect
+org.wildfly.swarm.jsonb.detect
 org.wildfly.swarm.jsonp.detect
 org.wildfly.swarm.keycloak
 org.wildfly.swarm.keycloak.deployment
