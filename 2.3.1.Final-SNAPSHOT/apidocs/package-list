@@ -143,6 +143,8 @@ org.wildfly.swarm.jsonb.detect
 org.wildfly.swarm.jsonp.detect
 org.wildfly.swarm.keycloak
 org.wildfly.swarm.keycloak.deployment
+org.wildfly.swarm.keycloak.mpjwt
+org.wildfly.swarm.keycloak.mpjwt.deployment
 org.wildfly.swarm.keycloak.server
 org.wildfly.swarm.logging
 org.wildfly.swarm.logstash
