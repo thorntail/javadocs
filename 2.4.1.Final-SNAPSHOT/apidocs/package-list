@@ -103,6 +103,7 @@ org.wildfly.swarm.ee.security
 org.wildfly.swarm.ee.security.detect
 org.wildfly.swarm.ejb
 org.wildfly.swarm.ejb.detect
+org.wildfly.swarm.ejb.mdb
 org.wildfly.swarm.ejb.remote.detect
 org.wildfly.swarm.elytron
 org.wildfly.swarm.fluentd
