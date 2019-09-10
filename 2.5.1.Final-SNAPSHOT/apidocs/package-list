@@ -19,6 +19,7 @@ org.wildfly.swarm.config.batch.jberet
 org.wildfly.swarm.config.datasources
 org.wildfly.swarm.config.datasources.data_source
 org.wildfly.swarm.config.datasources.xa_data_source
+org.wildfly.swarm.config.deployment.scanner
 org.wildfly.swarm.config.ee
 org.wildfly.swarm.config.ejb3
 org.wildfly.swarm.config.ejb3.remoting_profile
