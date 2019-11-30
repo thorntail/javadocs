@@ -20,6 +20,7 @@ org.wildfly.swarm.config.datasources
 org.wildfly.swarm.config.datasources.data_source
 org.wildfly.swarm.config.datasources.xa_data_source
 org.wildfly.swarm.config.deployment.scanner
+org.wildfly.swarm.config.discovery
 org.wildfly.swarm.config.ee
 org.wildfly.swarm.config.ejb3
 org.wildfly.swarm.config.ejb3.remoting_profile
@@ -27,6 +28,7 @@ org.wildfly.swarm.config.ejb3.service
 org.wildfly.swarm.config.elytron
 org.wildfly.swarm.config.infinispan
 org.wildfly.swarm.config.infinispan.cache_container
+org.wildfly.swarm.config.infinispan.cache_container.cache
 org.wildfly.swarm.config.infinispan.remote_cache_container
 org.wildfly.swarm.config.io
 org.wildfly.swarm.config.io.worker
@@ -39,6 +41,7 @@ org.wildfly.swarm.config.jgroups.stack.transport
 org.wildfly.swarm.config.jmx
 org.wildfly.swarm.config.jmx.configuration
 org.wildfly.swarm.config.logging
+org.wildfly.swarm.config.logging.logging_profile
 org.wildfly.swarm.config.mail
 org.wildfly.swarm.config.mail.mail_session
 org.wildfly.swarm.config.management
@@ -99,6 +102,7 @@ org.wildfly.swarm.container.config
 org.wildfly.swarm.container.util
 org.wildfly.swarm.datasources
 org.wildfly.swarm.datasources.detect
+org.wildfly.swarm.discovery
 org.wildfly.swarm.ee
 org.wildfly.swarm.ee.security
 org.wildfly.swarm.ee.security.detect
