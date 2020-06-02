@@ -181,7 +181,6 @@ org.wildfly.swarm.microprofile.openapi
 org.wildfly.swarm.microprofile.openapi.deployment
 org.wildfly.swarm.microprofile.openapi.detect
 org.wildfly.swarm.microprofile.restclient
-org.wildfly.swarm.microprofile.restclient.deployment
 org.wildfly.swarm.microprofile.restclient.detect
 org.wildfly.swarm.mod_cluster
 org.wildfly.swarm.mongodb
